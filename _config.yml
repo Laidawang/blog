@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Laidawang Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Shurui CHEN
 language: en
 timezone: ''
 
@@ -97,8 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-laughing
-
+theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
